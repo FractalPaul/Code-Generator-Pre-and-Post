@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CodeGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Documents\\SQL Server Management Studio\\Public Web API.sql\" -pre \"sb.Append(\"\"\" -post \"\"\");\""
+    }
+  }
+}
